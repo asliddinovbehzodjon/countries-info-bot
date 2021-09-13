@@ -1,7 +1,7 @@
 from aiogram import Bot,types,executor,Dispatcher
 import requests
 import json
-token='1988245317:AAErbb8MkxKgBF87kfgx5ZiqyLY5eHjStpQ'
+token='Telegram Token'
 bot=Bot(token=token)
 dp=Dispatcher(bot)
 
